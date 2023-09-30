@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dinu0110.
+- 👀 I’m interested in networking with data analysts all over the world.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on fellow data enthusiasts.
+- 📫 You can reach me @ddinu9098@gmail.com or in LinkedIn @ https://www.linkedin.com/in/dineshpugalenthi/
